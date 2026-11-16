@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+tempCodeRunnerFile.py
+
+# Large Model Weight Files (Exceeds GitHub 100MB limit)
+*.pth
+*.pt
+*.keras
+*.h5
+*.ckpt
+
+# Datasets and large folders
+all 3 combne/
+*.zip
+*.tar.gz
+
+# Environments & IDEs
+.venv/
+env/
+venv/
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
